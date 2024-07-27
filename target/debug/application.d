@@ -1,0 +1,1 @@
+/home/mauricio/Documentos/MyDummyProjects/RustProjects/240726-rust-todo-app/target/debug/application: /home/mauricio/Documentos/MyDummyProjects/RustProjects/240726-rust-todo-app/application/src/main.rs
