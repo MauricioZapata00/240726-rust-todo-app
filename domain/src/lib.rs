@@ -4,5 +4,6 @@ pub mod model {
     }
     pub mod calculation {
         pub mod mathematical_result;
+        pub mod operation_enum;
     }
 }
