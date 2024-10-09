@@ -18,6 +18,7 @@ pub mod use_case {
     pub mod services{
         pub mod business{
             pub mod get_all_todos_use_case;
+            pub mod validate_todo_use_case;
         }
         pub mod calculation{
 
